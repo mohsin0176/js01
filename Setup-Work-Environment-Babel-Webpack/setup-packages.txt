@@ -1,0 +1,14 @@
+online creator ----------------   https://createapp.dev/
+all installed packages are listed in package.json
+
+npm init -y
+
+install command format
+
+   a. npm install --save-dev package-name
+    1.babel-core
+    2.babel-preset-env
+    3.webpack
+    4.babel-loader
+    5.webpack-cli-D
+  b.npm install -D Webpack-dev-Server
